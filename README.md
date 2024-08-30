@@ -10,3 +10,6 @@
 - Sandra Zerbib Website
 - SMCP Website
 - Alex Waza Portfolio
+
+## Javascript
+- NoSleep (Block standby)
