@@ -12,4 +12,5 @@
 - Alex Waza Portfolio
 
 ## Javascript
-- NoSleep (Block standby)
+- NoSleep (Empêche la mise en veille)
+- MonIMC (Calcul votre IMC)
