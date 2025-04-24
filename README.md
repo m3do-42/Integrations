@@ -5,12 +5,15 @@
 - Nivea & Moi Newsletter
 
 ## Web
+
+### HTML5/CSS3
 - Dig-up TV Website
 - Nation Literie Website
 - Sandra Zerbib Website
 - SMCP Website
 - Alex Waza Portfolio
 
-## Javascript
-- NoSleep (Empêche la mise en veille)
-- MonIMC (Calcul votre IMC)
+### Javascript
+- Json Formater (Formate le json)
+- NoSpleep (Empeche la mise en veille)
+- QRcode Generator (Générateur de QRcode)
