@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Mon IMC</title>
+		<link rel="stylesheet" href="assets/css/style.css">
+		<script src="assets/js/app.js"></script>
+	</head>
+	<body>
+		<header>
+			<h1>Mon IMC</h1>
+		</header>
+		<section>
+			<p>Veillez saisir votre poids (en kg) et votre taille (en m)</p>
+			<p>Masse: <input type="number" id="inputMasse" value=90></p>
+			<p>Taille: <input type="number" id="inputTaille" value=1.70></p>
+			<button onclick="calculDeLimc()">Calculer votre IMC</button>
+			<p id="resultats"></p>
+			<p id="interpretation"></p>
+		</section>
+	</body>
+</html>
