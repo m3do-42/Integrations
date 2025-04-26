@@ -17,3 +17,4 @@
 - Json Formater (Formate le json)
 - NoSpleep (Empeche la mise en veille)
 - QRcode Generator (Générateur de QRcode)
+- Mon IMC (Calcul votre IMC)
